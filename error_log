@@ -1,0 +1,671 @@
+[09-May-2026 21:19:59 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_unicode_ci,COERCIBLE) for operation '=' in /home/zxffvipp/proxyxitios/index.php:102
+Stack trace:
+#0 /home/zxffvipp/proxyxitios/index.php(102): PDOStatement->execute()
+#1 {main}
+  thrown in /home/zxffvipp/proxyxitios/index.php on line 102
+[10-May-2026 03:37:05 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_unicode_ci,COERCIBLE) for operation '=' in /home/zxffvipp/proxyxitios/index.php:102
+Stack trace:
+#0 /home/zxffvipp/proxyxitios/index.php(102): PDOStatement->execute()
+#1 {main}
+  thrown in /home/zxffvipp/proxyxitios/index.php on line 102
+[10-May-2026 03:37:05 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_unicode_ci,COERCIBLE) for operation '=' in /home/zxffvipp/proxyxitios/index.php:102
+Stack trace:
+#0 /home/zxffvipp/proxyxitios/index.php(102): PDOStatement->execute()
+#1 {main}
+  thrown in /home/zxffvipp/proxyxitios/index.php on line 102
+[10-May-2026 05:48:45 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_unicode_ci,COERCIBLE) for operation '=' in /home/zxffvipp/proxyxitios/index.php:102
+Stack trace:
+#0 /home/zxffvipp/proxyxitios/index.php(102): PDOStatement->execute()
+#1 {main}
+  thrown in /home/zxffvipp/proxyxitios/index.php on line 102
+[10-May-2026 07:18:59 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_unicode_ci,COERCIBLE) for operation '=' in /home/zxffvipp/proxyxitios/index.php:102
+Stack trace:
+#0 /home/zxffvipp/proxyxitios/index.php(102): PDOStatement->execute()
+#1 {main}
+  thrown in /home/zxffvipp/proxyxitios/index.php on line 102
+[10-May-2026 11:40:53 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_unicode_ci,COERCIBLE) for operation '=' in /home/zxffvipp/proxyxitios/index.php:102
+Stack trace:
+#0 /home/zxffvipp/proxyxitios/index.php(102): PDOStatement->execute()
+#1 {main}
+  thrown in /home/zxffvipp/proxyxitios/index.php on line 102
+[10-May-2026 11:40:59 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_unicode_ci,COERCIBLE) for operation '=' in /home/zxffvipp/proxyxitios/index.php:102
+Stack trace:
+#0 /home/zxffvipp/proxyxitios/index.php(102): PDOStatement->execute()
+#1 {main}
+  thrown in /home/zxffvipp/proxyxitios/index.php on line 102
+[10-May-2026 11:41:05 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_unicode_ci,COERCIBLE) for operation '=' in /home/zxffvipp/proxyxitios/index.php:102
+Stack trace:
+#0 /home/zxffvipp/proxyxitios/index.php(102): PDOStatement->execute()
+#1 {main}
+  thrown in /home/zxffvipp/proxyxitios/index.php on line 102
+[10-May-2026 12:43:50 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_unicode_ci,COERCIBLE) for operation '=' in /home/zxffvipp/proxyxitios/index.php:102
+Stack trace:
+#0 /home/zxffvipp/proxyxitios/index.php(102): PDOStatement->execute()
+#1 {main}
+  thrown in /home/zxffvipp/proxyxitios/index.php on line 102
+[10-May-2026 12:43:56 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_unicode_ci,COERCIBLE) for operation '=' in /home/zxffvipp/proxyxitios/index.php:102
+Stack trace:
+#0 /home/zxffvipp/proxyxitios/index.php(102): PDOStatement->execute()
+#1 {main}
+  thrown in /home/zxffvipp/proxyxitios/index.php on line 102
+[10-May-2026 12:44:02 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_unicode_ci,COERCIBLE) for operation '=' in /home/zxffvipp/proxyxitios/index.php:102
+Stack trace:
+#0 /home/zxffvipp/proxyxitios/index.php(102): PDOStatement->execute()
+#1 {main}
+  thrown in /home/zxffvipp/proxyxitios/index.php on line 102
+[10-May-2026 14:42:52 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_unicode_ci,COERCIBLE) for operation '=' in /home/zxffvipp/proxyxitios/index.php:102
+Stack trace:
+#0 /home/zxffvipp/proxyxitios/index.php(102): PDOStatement->execute()
+#1 {main}
+  thrown in /home/zxffvipp/proxyxitios/index.php on line 102
+[10-May-2026 14:42:59 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_unicode_ci,COERCIBLE) for operation '=' in /home/zxffvipp/proxyxitios/index.php:102
+Stack trace:
+#0 /home/zxffvipp/proxyxitios/index.php(102): PDOStatement->execute()
+#1 {main}
+  thrown in /home/zxffvipp/proxyxitios/index.php on line 102
+[10-May-2026 15:06:18 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_unicode_ci,COERCIBLE) for operation '=' in /home/zxffvipp/proxyxitios/index.php:102
+Stack trace:
+#0 /home/zxffvipp/proxyxitios/index.php(102): PDOStatement->execute()
+#1 {main}
+  thrown in /home/zxffvipp/proxyxitios/index.php on line 102
+[10-May-2026 15:06:23 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_unicode_ci,COERCIBLE) for operation '=' in /home/zxffvipp/proxyxitios/index.php:102
+Stack trace:
+#0 /home/zxffvipp/proxyxitios/index.php(102): PDOStatement->execute()
+#1 {main}
+  thrown in /home/zxffvipp/proxyxitios/index.php on line 102
+[10-May-2026 15:17:06 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_unicode_ci,COERCIBLE) for operation '=' in /home/zxffvipp/proxyxitios/index.php:164
+Stack trace:
+#0 /home/zxffvipp/proxyxitios/index.php(164): PDOStatement->execute()
+#1 {main}
+  thrown in /home/zxffvipp/proxyxitios/index.php on line 164
+[10-May-2026 15:18:02 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_unicode_ci,COERCIBLE) for operation '=' in /home/zxffvipp/proxyxitios/index.php:164
+Stack trace:
+#0 /home/zxffvipp/proxyxitios/index.php(164): PDOStatement->execute()
+#1 {main}
+  thrown in /home/zxffvipp/proxyxitios/index.php on line 164
+[11-May-2026 04:22:41 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_unicode_ci,COERCIBLE) for operation '=' in /home/zxffvipp/proxyxitios/index.php:102
+Stack trace:
+#0 /home/zxffvipp/proxyxitios/index.php(102): PDOStatement->execute()
+#1 {main}
+  thrown in /home/zxffvipp/proxyxitios/index.php on line 102
+[11-May-2026 07:07:52 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_unicode_ci,COERCIBLE) for operation '=' in /home/zxffvipp/proxyxitios/index.php:102
+Stack trace:
+#0 /home/zxffvipp/proxyxitios/index.php(102): PDOStatement->execute()
+#1 {main}
+  thrown in /home/zxffvipp/proxyxitios/index.php on line 102
+[11-May-2026 07:08:02 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_unicode_ci,COERCIBLE) for operation '=' in /home/zxffvipp/proxyxitios/index.php:102
+Stack trace:
+#0 /home/zxffvipp/proxyxitios/index.php(102): PDOStatement->execute()
+#1 {main}
+  thrown in /home/zxffvipp/proxyxitios/index.php on line 102
+[11-May-2026 07:08:24 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_unicode_ci,COERCIBLE) for operation '=' in /home/zxffvipp/proxyxitios/index.php:102
+Stack trace:
+#0 /home/zxffvipp/proxyxitios/index.php(102): PDOStatement->execute()
+#1 {main}
+  thrown in /home/zxffvipp/proxyxitios/index.php on line 102
+[11-May-2026 07:08:36 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_unicode_ci,COERCIBLE) for operation '=' in /home/zxffvipp/proxyxitios/index.php:102
+Stack trace:
+#0 /home/zxffvipp/proxyxitios/index.php(102): PDOStatement->execute()
+#1 {main}
+  thrown in /home/zxffvipp/proxyxitios/index.php on line 102
+[11-May-2026 07:08:38 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_unicode_ci,COERCIBLE) for operation '=' in /home/zxffvipp/proxyxitios/index.php:102
+Stack trace:
+#0 /home/zxffvipp/proxyxitios/index.php(102): PDOStatement->execute()
+#1 {main}
+  thrown in /home/zxffvipp/proxyxitios/index.php on line 102
+[11-May-2026 07:09:02 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_unicode_ci,COERCIBLE) for operation '=' in /home/zxffvipp/proxyxitios/index.php:102
+Stack trace:
+#0 /home/zxffvipp/proxyxitios/index.php(102): PDOStatement->execute()
+#1 {main}
+  thrown in /home/zxffvipp/proxyxitios/index.php on line 102
+[11-May-2026 07:09:06 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_unicode_ci,COERCIBLE) for operation '=' in /home/zxffvipp/proxyxitios/index.php:102
+Stack trace:
+#0 /home/zxffvipp/proxyxitios/index.php(102): PDOStatement->execute()
+#1 {main}
+  thrown in /home/zxffvipp/proxyxitios/index.php on line 102
+[11-May-2026 11:16:11 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_unicode_ci,COERCIBLE) for operation '=' in /home/zxffvipp/proxyxitios/index.php:102
+Stack trace:
+#0 /home/zxffvipp/proxyxitios/index.php(102): PDOStatement->execute()
+#1 {main}
+  thrown in /home/zxffvipp/proxyxitios/index.php on line 102
+[11-May-2026 11:16:50 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_unicode_ci,COERCIBLE) for operation '=' in /home/zxffvipp/proxyxitios/index.php:102
+Stack trace:
+#0 /home/zxffvipp/proxyxitios/index.php(102): PDOStatement->execute()
+#1 {main}
+  thrown in /home/zxffvipp/proxyxitios/index.php on line 102
+[11-May-2026 13:14:39 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_unicode_ci,COERCIBLE) for operation '=' in /home/zxffvipp/proxyxitios/index.php:102
+Stack trace:
+#0 /home/zxffvipp/proxyxitios/index.php(102): PDOStatement->execute()
+#1 {main}
+  thrown in /home/zxffvipp/proxyxitios/index.php on line 102
+[11-May-2026 13:14:48 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_unicode_ci,COERCIBLE) for operation '=' in /home/zxffvipp/proxyxitios/index.php:102
+Stack trace:
+#0 /home/zxffvipp/proxyxitios/index.php(102): PDOStatement->execute()
+#1 {main}
+  thrown in /home/zxffvipp/proxyxitios/index.php on line 102
+[11-May-2026 13:14:56 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_unicode_ci,COERCIBLE) for operation '=' in /home/zxffvipp/proxyxitios/index.php:102
+Stack trace:
+#0 /home/zxffvipp/proxyxitios/index.php(102): PDOStatement->execute()
+#1 {main}
+  thrown in /home/zxffvipp/proxyxitios/index.php on line 102
+[11-May-2026 13:15:04 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_unicode_ci,COERCIBLE) for operation '=' in /home/zxffvipp/proxyxitios/index.php:102
+Stack trace:
+#0 /home/zxffvipp/proxyxitios/index.php(102): PDOStatement->execute()
+#1 {main}
+  thrown in /home/zxffvipp/proxyxitios/index.php on line 102
+[11-May-2026 13:15:09 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_unicode_ci,COERCIBLE) for operation '=' in /home/zxffvipp/proxyxitios/index.php:102
+Stack trace:
+#0 /home/zxffvipp/proxyxitios/index.php(102): PDOStatement->execute()
+#1 {main}
+  thrown in /home/zxffvipp/proxyxitios/index.php on line 102
+[11-May-2026 13:15:30 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_unicode_ci,COERCIBLE) for operation '=' in /home/zxffvipp/proxyxitios/index.php:102
+Stack trace:
+#0 /home/zxffvipp/proxyxitios/index.php(102): PDOStatement->execute()
+#1 {main}
+  thrown in /home/zxffvipp/proxyxitios/index.php on line 102
+[11-May-2026 17:47:29 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_unicode_ci,COERCIBLE) for operation '=' in /home/zxffvipp/proxyxitios/index.php:102
+Stack trace:
+#0 /home/zxffvipp/proxyxitios/index.php(102): PDOStatement->execute()
+#1 {main}
+  thrown in /home/zxffvipp/proxyxitios/index.php on line 102
+[11-May-2026 17:47:29 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_unicode_ci,COERCIBLE) for operation '=' in /home/zxffvipp/proxyxitios/index.php:102
+Stack trace:
+#0 /home/zxffvipp/proxyxitios/index.php(102): PDOStatement->execute()
+#1 {main}
+  thrown in /home/zxffvipp/proxyxitios/index.php on line 102
+[11-May-2026 18:04:13 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_unicode_ci,COERCIBLE) for operation '=' in /home/zxffvipp/proxyxitios/index.php:102
+Stack trace:
+#0 /home/zxffvipp/proxyxitios/index.php(102): PDOStatement->execute()
+#1 {main}
+  thrown in /home/zxffvipp/proxyxitios/index.php on line 102
+[11-May-2026 18:09:46 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_unicode_ci,COERCIBLE) for operation '=' in /home/zxffvipp/proxyxitios/index.php:102
+Stack trace:
+#0 /home/zxffvipp/proxyxitios/index.php(102): PDOStatement->execute()
+#1 {main}
+  thrown in /home/zxffvipp/proxyxitios/index.php on line 102
+[11-May-2026 21:31:57 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_unicode_ci,COERCIBLE) for operation '=' in /home/zxffvipp/proxyxitios/index.php:102
+Stack trace:
+#0 /home/zxffvipp/proxyxitios/index.php(102): PDOStatement->execute()
+#1 {main}
+  thrown in /home/zxffvipp/proxyxitios/index.php on line 102
+[11-May-2026 21:32:10 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_unicode_ci,COERCIBLE) for operation '=' in /home/zxffvipp/proxyxitios/index.php:102
+Stack trace:
+#0 /home/zxffvipp/proxyxitios/index.php(102): PDOStatement->execute()
+#1 {main}
+  thrown in /home/zxffvipp/proxyxitios/index.php on line 102
+[11-May-2026 21:33:36 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_unicode_ci,COERCIBLE) for operation '=' in /home/zxffvipp/proxyxitios/index.php:102
+Stack trace:
+#0 /home/zxffvipp/proxyxitios/index.php(102): PDOStatement->execute()
+#1 {main}
+  thrown in /home/zxffvipp/proxyxitios/index.php on line 102
+[11-May-2026 21:34:05 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_unicode_ci,COERCIBLE) for operation '=' in /home/zxffvipp/proxyxitios/index.php:102
+Stack trace:
+#0 /home/zxffvipp/proxyxitios/index.php(102): PDOStatement->execute()
+#1 {main}
+  thrown in /home/zxffvipp/proxyxitios/index.php on line 102
+[11-May-2026 21:34:13 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_unicode_ci,COERCIBLE) for operation '=' in /home/zxffvipp/proxyxitios/index.php:102
+Stack trace:
+#0 /home/zxffvipp/proxyxitios/index.php(102): PDOStatement->execute()
+#1 {main}
+  thrown in /home/zxffvipp/proxyxitios/index.php on line 102
+[11-May-2026 21:34:20 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_unicode_ci,COERCIBLE) for operation '=' in /home/zxffvipp/proxyxitios/index.php:102
+Stack trace:
+#0 /home/zxffvipp/proxyxitios/index.php(102): PDOStatement->execute()
+#1 {main}
+  thrown in /home/zxffvipp/proxyxitios/index.php on line 102
+[11-May-2026 21:37:49 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_unicode_ci,COERCIBLE) for operation '=' in /home/zxffvipp/proxyxitios/index.php:102
+Stack trace:
+#0 /home/zxffvipp/proxyxitios/index.php(102): PDOStatement->execute()
+#1 {main}
+  thrown in /home/zxffvipp/proxyxitios/index.php on line 102
+[11-May-2026 21:37:53 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_unicode_ci,COERCIBLE) for operation '=' in /home/zxffvipp/proxyxitios/index.php:102
+Stack trace:
+#0 /home/zxffvipp/proxyxitios/index.php(102): PDOStatement->execute()
+#1 {main}
+  thrown in /home/zxffvipp/proxyxitios/index.php on line 102
+[11-May-2026 21:38:16 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_unicode_ci,COERCIBLE) for operation '=' in /home/zxffvipp/proxyxitios/index.php:102
+Stack trace:
+#0 /home/zxffvipp/proxyxitios/index.php(102): PDOStatement->execute()
+#1 {main}
+  thrown in /home/zxffvipp/proxyxitios/index.php on line 102
+[11-May-2026 22:15:27 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_unicode_ci,COERCIBLE) for operation '=' in /home/zxffvipp/proxyxitios/index.php:102
+Stack trace:
+#0 /home/zxffvipp/proxyxitios/index.php(102): PDOStatement->execute()
+#1 {main}
+  thrown in /home/zxffvipp/proxyxitios/index.php on line 102
+[11-May-2026 22:16:45 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_unicode_ci,COERCIBLE) for operation '=' in /home/zxffvipp/proxyxitios/index.php:102
+Stack trace:
+#0 /home/zxffvipp/proxyxitios/index.php(102): PDOStatement->execute()
+#1 {main}
+  thrown in /home/zxffvipp/proxyxitios/index.php on line 102
+[11-May-2026 22:43:09 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_unicode_ci,COERCIBLE) for operation '=' in /home/zxffvipp/proxyxitios/index.php:102
+Stack trace:
+#0 /home/zxffvipp/proxyxitios/index.php(102): PDOStatement->execute()
+#1 {main}
+  thrown in /home/zxffvipp/proxyxitios/index.php on line 102
+[11-May-2026 22:43:20 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_unicode_ci,COERCIBLE) for operation '=' in /home/zxffvipp/proxyxitios/index.php:102
+Stack trace:
+#0 /home/zxffvipp/proxyxitios/index.php(102): PDOStatement->execute()
+#1 {main}
+  thrown in /home/zxffvipp/proxyxitios/index.php on line 102
+[11-May-2026 22:43:22 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_unicode_ci,COERCIBLE) for operation '=' in /home/zxffvipp/proxyxitios/index.php:102
+Stack trace:
+#0 /home/zxffvipp/proxyxitios/index.php(102): PDOStatement->execute()
+#1 {main}
+  thrown in /home/zxffvipp/proxyxitios/index.php on line 102
+[11-May-2026 22:43:28 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_unicode_ci,COERCIBLE) for operation '=' in /home/zxffvipp/proxyxitios/index.php:102
+Stack trace:
+#0 /home/zxffvipp/proxyxitios/index.php(102): PDOStatement->execute()
+#1 {main}
+  thrown in /home/zxffvipp/proxyxitios/index.php on line 102
+[11-May-2026 22:43:45 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_unicode_ci,COERCIBLE) for operation '=' in /home/zxffvipp/proxyxitios/index.php:102
+Stack trace:
+#0 /home/zxffvipp/proxyxitios/index.php(102): PDOStatement->execute()
+#1 {main}
+  thrown in /home/zxffvipp/proxyxitios/index.php on line 102
+[11-May-2026 23:02:12 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_unicode_ci,COERCIBLE) for operation '=' in /home/zxffvipp/proxyxitios/index.php:102
+Stack trace:
+#0 /home/zxffvipp/proxyxitios/index.php(102): PDOStatement->execute()
+#1 {main}
+  thrown in /home/zxffvipp/proxyxitios/index.php on line 102
+[11-May-2026 23:02:30 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_unicode_ci,COERCIBLE) for operation '=' in /home/zxffvipp/proxyxitios/index.php:102
+Stack trace:
+#0 /home/zxffvipp/proxyxitios/index.php(102): PDOStatement->execute()
+#1 {main}
+  thrown in /home/zxffvipp/proxyxitios/index.php on line 102
+[11-May-2026 23:32:47 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_unicode_ci,COERCIBLE) for operation '=' in /home/zxffvipp/proxyxitios/index.php:102
+Stack trace:
+#0 /home/zxffvipp/proxyxitios/index.php(102): PDOStatement->execute()
+#1 {main}
+  thrown in /home/zxffvipp/proxyxitios/index.php on line 102
+[11-May-2026 23:51:04 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_unicode_ci,COERCIBLE) for operation '=' in /home/zxffvipp/proxyxitios/index.php:102
+Stack trace:
+#0 /home/zxffvipp/proxyxitios/index.php(102): PDOStatement->execute()
+#1 {main}
+  thrown in /home/zxffvipp/proxyxitios/index.php on line 102
+[11-May-2026 23:51:23 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_unicode_ci,COERCIBLE) for operation '=' in /home/zxffvipp/proxyxitios/index.php:102
+Stack trace:
+#0 /home/zxffvipp/proxyxitios/index.php(102): PDOStatement->execute()
+#1 {main}
+  thrown in /home/zxffvipp/proxyxitios/index.php on line 102
+[12-May-2026 04:56:01 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_unicode_ci,COERCIBLE) for operation '=' in /home/zxffvipp/proxyxitios/index.php:102
+Stack trace:
+#0 /home/zxffvipp/proxyxitios/index.php(102): PDOStatement->execute()
+#1 {main}
+  thrown in /home/zxffvipp/proxyxitios/index.php on line 102
+[12-May-2026 06:36:48 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_unicode_ci,COERCIBLE) for operation '=' in /home/zxffvipp/proxyxitios/index.php:102
+Stack trace:
+#0 /home/zxffvipp/proxyxitios/index.php(102): PDOStatement->execute()
+#1 {main}
+  thrown in /home/zxffvipp/proxyxitios/index.php on line 102
+[12-May-2026 06:36:59 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_unicode_ci,COERCIBLE) for operation '=' in /home/zxffvipp/proxyxitios/index.php:102
+Stack trace:
+#0 /home/zxffvipp/proxyxitios/index.php(102): PDOStatement->execute()
+#1 {main}
+  thrown in /home/zxffvipp/proxyxitios/index.php on line 102
+[12-May-2026 06:46:17 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_unicode_ci,COERCIBLE) for operation '=' in /home/zxffvipp/proxyxitios/index.php:102
+Stack trace:
+#0 /home/zxffvipp/proxyxitios/index.php(102): PDOStatement->execute()
+#1 {main}
+  thrown in /home/zxffvipp/proxyxitios/index.php on line 102
+[12-May-2026 07:32:12 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_unicode_ci,COERCIBLE) for operation '=' in /home/zxffvipp/proxyxitios/index.php:102
+Stack trace:
+#0 /home/zxffvipp/proxyxitios/index.php(102): PDOStatement->execute()
+#1 {main}
+  thrown in /home/zxffvipp/proxyxitios/index.php on line 102
+[12-May-2026 07:33:00 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_unicode_ci,COERCIBLE) for operation '=' in /home/zxffvipp/proxyxitios/index.php:102
+Stack trace:
+#0 /home/zxffvipp/proxyxitios/index.php(102): PDOStatement->execute()
+#1 {main}
+  thrown in /home/zxffvipp/proxyxitios/index.php on line 102
+[12-May-2026 07:33:21 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_unicode_ci,COERCIBLE) for operation '=' in /home/zxffvipp/proxyxitios/index.php:102
+Stack trace:
+#0 /home/zxffvipp/proxyxitios/index.php(102): PDOStatement->execute()
+#1 {main}
+  thrown in /home/zxffvipp/proxyxitios/index.php on line 102
+[12-May-2026 11:25:41 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_unicode_ci,COERCIBLE) for operation '=' in /home/zxffvipp/proxyxitios/index.php:102
+Stack trace:
+#0 /home/zxffvipp/proxyxitios/index.php(102): PDOStatement->execute()
+#1 {main}
+  thrown in /home/zxffvipp/proxyxitios/index.php on line 102
+[12-May-2026 11:25:54 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_unicode_ci,COERCIBLE) for operation '=' in /home/zxffvipp/proxyxitios/index.php:102
+Stack trace:
+#0 /home/zxffvipp/proxyxitios/index.php(102): PDOStatement->execute()
+#1 {main}
+  thrown in /home/zxffvipp/proxyxitios/index.php on line 102
+[12-May-2026 11:27:20 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_unicode_ci,COERCIBLE) for operation '=' in /home/zxffvipp/proxyxitios/index.php:102
+Stack trace:
+#0 /home/zxffvipp/proxyxitios/index.php(102): PDOStatement->execute()
+#1 {main}
+  thrown in /home/zxffvipp/proxyxitios/index.php on line 102
+[12-May-2026 11:27:34 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_unicode_ci,COERCIBLE) for operation '=' in /home/zxffvipp/proxyxitios/index.php:102
+Stack trace:
+#0 /home/zxffvipp/proxyxitios/index.php(102): PDOStatement->execute()
+#1 {main}
+  thrown in /home/zxffvipp/proxyxitios/index.php on line 102
+[12-May-2026 11:27:38 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_unicode_ci,COERCIBLE) for operation '=' in /home/zxffvipp/proxyxitios/index.php:102
+Stack trace:
+#0 /home/zxffvipp/proxyxitios/index.php(102): PDOStatement->execute()
+#1 {main}
+  thrown in /home/zxffvipp/proxyxitios/index.php on line 102
+[12-May-2026 11:27:42 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_unicode_ci,COERCIBLE) for operation '=' in /home/zxffvipp/proxyxitios/index.php:102
+Stack trace:
+#0 /home/zxffvipp/proxyxitios/index.php(102): PDOStatement->execute()
+#1 {main}
+  thrown in /home/zxffvipp/proxyxitios/index.php on line 102
+[12-May-2026 11:27:44 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_unicode_ci,COERCIBLE) for operation '=' in /home/zxffvipp/proxyxitios/index.php:102
+Stack trace:
+#0 /home/zxffvipp/proxyxitios/index.php(102): PDOStatement->execute()
+#1 {main}
+  thrown in /home/zxffvipp/proxyxitios/index.php on line 102
+[12-May-2026 11:27:59 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_unicode_ci,COERCIBLE) for operation '=' in /home/zxffvipp/proxyxitios/index.php:102
+Stack trace:
+#0 /home/zxffvipp/proxyxitios/index.php(102): PDOStatement->execute()
+#1 {main}
+  thrown in /home/zxffvipp/proxyxitios/index.php on line 102
+[12-May-2026 11:28:09 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_unicode_ci,COERCIBLE) for operation '=' in /home/zxffvipp/proxyxitios/index.php:102
+Stack trace:
+#0 /home/zxffvipp/proxyxitios/index.php(102): PDOStatement->execute()
+#1 {main}
+  thrown in /home/zxffvipp/proxyxitios/index.php on line 102
+[12-May-2026 13:27:10 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_unicode_ci,COERCIBLE) for operation '=' in /home/zxffvipp/proxyxitios/index.php:102
+Stack trace:
+#0 /home/zxffvipp/proxyxitios/index.php(102): PDOStatement->execute()
+#1 {main}
+  thrown in /home/zxffvipp/proxyxitios/index.php on line 102
+[12-May-2026 13:27:40 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_unicode_ci,COERCIBLE) for operation '=' in /home/zxffvipp/proxyxitios/index.php:102
+Stack trace:
+#0 /home/zxffvipp/proxyxitios/index.php(102): PDOStatement->execute()
+#1 {main}
+  thrown in /home/zxffvipp/proxyxitios/index.php on line 102
+[12-May-2026 14:01:40 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_unicode_ci,COERCIBLE) for operation '=' in /home/zxffvipp/proxyxitios/index.php:102
+Stack trace:
+#0 /home/zxffvipp/proxyxitios/index.php(102): PDOStatement->execute()
+#1 {main}
+  thrown in /home/zxffvipp/proxyxitios/index.php on line 102
+[12-May-2026 14:01:53 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_unicode_ci,COERCIBLE) for operation '=' in /home/zxffvipp/proxyxitios/index.php:102
+Stack trace:
+#0 /home/zxffvipp/proxyxitios/index.php(102): PDOStatement->execute()
+#1 {main}
+  thrown in /home/zxffvipp/proxyxitios/index.php on line 102
+[12-May-2026 14:03:44 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_unicode_ci,COERCIBLE) for operation '=' in /home/zxffvipp/proxyxitios/index.php:164
+Stack trace:
+#0 /home/zxffvipp/proxyxitios/index.php(164): PDOStatement->execute()
+#1 {main}
+  thrown in /home/zxffvipp/proxyxitios/index.php on line 164
+[12-May-2026 14:04:01 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_unicode_ci,COERCIBLE) for operation '=' in /home/zxffvipp/proxyxitios/index.php:102
+Stack trace:
+#0 /home/zxffvipp/proxyxitios/index.php(102): PDOStatement->execute()
+#1 {main}
+  thrown in /home/zxffvipp/proxyxitios/index.php on line 102
+[12-May-2026 14:04:18 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_unicode_ci,COERCIBLE) for operation '=' in /home/zxffvipp/proxyxitios/index.php:102
+Stack trace:
+#0 /home/zxffvipp/proxyxitios/index.php(102): PDOStatement->execute()
+#1 {main}
+  thrown in /home/zxffvipp/proxyxitios/index.php on line 102
+[12-May-2026 14:05:14 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_unicode_ci,COERCIBLE) for operation '=' in /home/zxffvipp/proxyxitios/index.php:164
+Stack trace:
+#0 /home/zxffvipp/proxyxitios/index.php(164): PDOStatement->execute()
+#1 {main}
+  thrown in /home/zxffvipp/proxyxitios/index.php on line 164
+[12-May-2026 17:38:34 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_unicode_ci,COERCIBLE) for operation '=' in /home/zxffvipp/proxyxitios/index.php:102
+Stack trace:
+#0 /home/zxffvipp/proxyxitios/index.php(102): PDOStatement->execute()
+#1 {main}
+  thrown in /home/zxffvipp/proxyxitios/index.php on line 102
+[12-May-2026 18:47:07 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_unicode_ci,COERCIBLE) for operation '=' in /home/zxffvipp/proxyxitios/index.php:102
+Stack trace:
+#0 /home/zxffvipp/proxyxitios/index.php(102): PDOStatement->execute()
+#1 {main}
+  thrown in /home/zxffvipp/proxyxitios/index.php on line 102
+[12-May-2026 18:47:23 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_unicode_ci,COERCIBLE) for operation '=' in /home/zxffvipp/proxyxitios/index.php:102
+Stack trace:
+#0 /home/zxffvipp/proxyxitios/index.php(102): PDOStatement->execute()
+#1 {main}
+  thrown in /home/zxffvipp/proxyxitios/index.php on line 102
+[12-May-2026 18:49:14 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_unicode_ci,COERCIBLE) for operation '=' in /home/zxffvipp/proxyxitios/index.php:102
+Stack trace:
+#0 /home/zxffvipp/proxyxitios/index.php(102): PDOStatement->execute()
+#1 {main}
+  thrown in /home/zxffvipp/proxyxitios/index.php on line 102
+[12-May-2026 20:03:41 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_unicode_ci,COERCIBLE) for operation '=' in /home/zxffvipp/proxyxitios/index.php:102
+Stack trace:
+#0 /home/zxffvipp/proxyxitios/index.php(102): PDOStatement->execute()
+#1 {main}
+  thrown in /home/zxffvipp/proxyxitios/index.php on line 102
+[12-May-2026 20:03:57 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_unicode_ci,COERCIBLE) for operation '=' in /home/zxffvipp/proxyxitios/index.php:102
+Stack trace:
+#0 /home/zxffvipp/proxyxitios/index.php(102): PDOStatement->execute()
+#1 {main}
+  thrown in /home/zxffvipp/proxyxitios/index.php on line 102
+[12-May-2026 20:04:21 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_unicode_ci,COERCIBLE) for operation '=' in /home/zxffvipp/proxyxitios/index.php:102
+Stack trace:
+#0 /home/zxffvipp/proxyxitios/index.php(102): PDOStatement->execute()
+#1 {main}
+  thrown in /home/zxffvipp/proxyxitios/index.php on line 102
+[12-May-2026 20:04:30 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_unicode_ci,COERCIBLE) for operation '=' in /home/zxffvipp/proxyxitios/index.php:102
+Stack trace:
+#0 /home/zxffvipp/proxyxitios/index.php(102): PDOStatement->execute()
+#1 {main}
+  thrown in /home/zxffvipp/proxyxitios/index.php on line 102
+[12-May-2026 20:04:41 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_unicode_ci,COERCIBLE) for operation '=' in /home/zxffvipp/proxyxitios/index.php:102
+Stack trace:
+#0 /home/zxffvipp/proxyxitios/index.php(102): PDOStatement->execute()
+#1 {main}
+  thrown in /home/zxffvipp/proxyxitios/index.php on line 102
+[12-May-2026 22:13:39 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_unicode_ci,COERCIBLE) for operation '=' in /home/zxffvipp/proxyxitios/index.php:102
+Stack trace:
+#0 /home/zxffvipp/proxyxitios/index.php(102): PDOStatement->execute()
+#1 {main}
+  thrown in /home/zxffvipp/proxyxitios/index.php on line 102
+[12-May-2026 22:13:55 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_unicode_ci,COERCIBLE) for operation '=' in /home/zxffvipp/proxyxitios/index.php:102
+Stack trace:
+#0 /home/zxffvipp/proxyxitios/index.php(102): PDOStatement->execute()
+#1 {main}
+  thrown in /home/zxffvipp/proxyxitios/index.php on line 102
+[12-May-2026 22:14:16 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_unicode_ci,COERCIBLE) for operation '=' in /home/zxffvipp/proxyxitios/index.php:164
+Stack trace:
+#0 /home/zxffvipp/proxyxitios/index.php(164): PDOStatement->execute()
+#1 {main}
+  thrown in /home/zxffvipp/proxyxitios/index.php on line 164
+[12-May-2026 22:14:27 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_unicode_ci,COERCIBLE) for operation '=' in /home/zxffvipp/proxyxitios/index.php:102
+Stack trace:
+#0 /home/zxffvipp/proxyxitios/index.php(102): PDOStatement->execute()
+#1 {main}
+  thrown in /home/zxffvipp/proxyxitios/index.php on line 102
+[13-May-2026 06:19:48 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_unicode_ci,COERCIBLE) for operation '=' in /home/zxffvipp/proxyxitios/index.php:102
+Stack trace:
+#0 /home/zxffvipp/proxyxitios/index.php(102): PDOStatement->execute()
+#1 {main}
+  thrown in /home/zxffvipp/proxyxitios/index.php on line 102
+[13-May-2026 06:19:55 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_unicode_ci,COERCIBLE) for operation '=' in /home/zxffvipp/proxyxitios/index.php:102
+Stack trace:
+#0 /home/zxffvipp/proxyxitios/index.php(102): PDOStatement->execute()
+#1 {main}
+  thrown in /home/zxffvipp/proxyxitios/index.php on line 102
+[13-May-2026 06:20:22 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_unicode_ci,COERCIBLE) for operation '=' in /home/zxffvipp/proxyxitios/index.php:102
+Stack trace:
+#0 /home/zxffvipp/proxyxitios/index.php(102): PDOStatement->execute()
+#1 {main}
+  thrown in /home/zxffvipp/proxyxitios/index.php on line 102
+[13-May-2026 06:20:25 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_unicode_ci,COERCIBLE) for operation '=' in /home/zxffvipp/proxyxitios/index.php:102
+Stack trace:
+#0 /home/zxffvipp/proxyxitios/index.php(102): PDOStatement->execute()
+#1 {main}
+  thrown in /home/zxffvipp/proxyxitios/index.php on line 102
+[13-May-2026 06:20:25 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_unicode_ci,COERCIBLE) for operation '=' in /home/zxffvipp/proxyxitios/index.php:102
+Stack trace:
+#0 /home/zxffvipp/proxyxitios/index.php(102): PDOStatement->execute()
+#1 {main}
+  thrown in /home/zxffvipp/proxyxitios/index.php on line 102
+[13-May-2026 11:41:07 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_unicode_ci,COERCIBLE) for operation '=' in /home/zxffvipp/proxyxitios/index.php:102
+Stack trace:
+#0 /home/zxffvipp/proxyxitios/index.php(102): PDOStatement->execute()
+#1 {main}
+  thrown in /home/zxffvipp/proxyxitios/index.php on line 102
+[13-May-2026 17:04:47 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_unicode_ci,COERCIBLE) for operation '=' in /home/zxffvipp/proxyxitios/index.php:102
+Stack trace:
+#0 /home/zxffvipp/proxyxitios/index.php(102): PDOStatement->execute()
+#1 {main}
+  thrown in /home/zxffvipp/proxyxitios/index.php on line 102
+[13-May-2026 17:05:08 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_unicode_ci,COERCIBLE) for operation '=' in /home/zxffvipp/proxyxitios/index.php:102
+Stack trace:
+#0 /home/zxffvipp/proxyxitios/index.php(102): PDOStatement->execute()
+#1 {main}
+  thrown in /home/zxffvipp/proxyxitios/index.php on line 102
+[13-May-2026 17:22:15 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_unicode_ci,COERCIBLE) for operation '=' in /home/zxffvipp/proxyxitios/index.php:102
+Stack trace:
+#0 /home/zxffvipp/proxyxitios/index.php(102): PDOStatement->execute()
+#1 {main}
+  thrown in /home/zxffvipp/proxyxitios/index.php on line 102
+[13-May-2026 17:25:56 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_unicode_ci,COERCIBLE) for operation '=' in /home/zxffvipp/proxyxitios/index.php:102
+Stack trace:
+#0 /home/zxffvipp/proxyxitios/index.php(102): PDOStatement->execute()
+#1 {main}
+  thrown in /home/zxffvipp/proxyxitios/index.php on line 102
+[14-May-2026 12:49:18 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_unicode_ci,COERCIBLE) for operation '=' in /home/zxffvipp/proxyxitios/index.php:102
+Stack trace:
+#0 /home/zxffvipp/proxyxitios/index.php(102): PDOStatement->execute()
+#1 {main}
+  thrown in /home/zxffvipp/proxyxitios/index.php on line 102
+[14-May-2026 12:50:08 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_unicode_ci,COERCIBLE) for operation '=' in /home/zxffvipp/proxyxitios/index.php:102
+Stack trace:
+#0 /home/zxffvipp/proxyxitios/index.php(102): PDOStatement->execute()
+#1 {main}
+  thrown in /home/zxffvipp/proxyxitios/index.php on line 102
+[14-May-2026 12:56:36 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_unicode_ci,COERCIBLE) for operation '=' in /home/zxffvipp/proxyxitios/index.php:164
+Stack trace:
+#0 /home/zxffvipp/proxyxitios/index.php(164): PDOStatement->execute()
+#1 {main}
+  thrown in /home/zxffvipp/proxyxitios/index.php on line 164
+[14-May-2026 12:56:45 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_unicode_ci,COERCIBLE) for operation '=' in /home/zxffvipp/proxyxitios/index.php:102
+Stack trace:
+#0 /home/zxffvipp/proxyxitios/index.php(102): PDOStatement->execute()
+#1 {main}
+  thrown in /home/zxffvipp/proxyxitios/index.php on line 102
+[14-May-2026 15:50:38 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_unicode_ci,COERCIBLE) for operation '=' in /home/zxffvipp/proxyxitios/index.php:102
+Stack trace:
+#0 /home/zxffvipp/proxyxitios/index.php(102): PDOStatement->execute()
+#1 {main}
+  thrown in /home/zxffvipp/proxyxitios/index.php on line 102
+[14-May-2026 15:51:41 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_unicode_ci,COERCIBLE) for operation '=' in /home/zxffvipp/proxyxitios/index.php:102
+Stack trace:
+#0 /home/zxffvipp/proxyxitios/index.php(102): PDOStatement->execute()
+#1 {main}
+  thrown in /home/zxffvipp/proxyxitios/index.php on line 102
+[14-May-2026 15:52:05 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_unicode_ci,COERCIBLE) for operation '=' in /home/zxffvipp/proxyxitios/index.php:102
+Stack trace:
+#0 /home/zxffvipp/proxyxitios/index.php(102): PDOStatement->execute()
+#1 {main}
+  thrown in /home/zxffvipp/proxyxitios/index.php on line 102
+[16-May-2026 08:36:21 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_unicode_ci,COERCIBLE) for operation '=' in /home/zxffvipp/proxyxitios/index.php:102
+Stack trace:
+#0 /home/zxffvipp/proxyxitios/index.php(102): PDOStatement->execute()
+#1 {main}
+  thrown in /home/zxffvipp/proxyxitios/index.php on line 102
+[16-May-2026 09:42:12 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_unicode_ci,COERCIBLE) for operation '=' in /home/zxffvipp/proxyxitios/index.php:102
+Stack trace:
+#0 /home/zxffvipp/proxyxitios/index.php(102): PDOStatement->execute()
+#1 {main}
+  thrown in /home/zxffvipp/proxyxitios/index.php on line 102
+[16-May-2026 09:42:20 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_unicode_ci,COERCIBLE) for operation '=' in /home/zxffvipp/proxyxitios/index.php:102
+Stack trace:
+#0 /home/zxffvipp/proxyxitios/index.php(102): PDOStatement->execute()
+#1 {main}
+  thrown in /home/zxffvipp/proxyxitios/index.php on line 102
+[16-May-2026 09:42:23 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_unicode_ci,COERCIBLE) for operation '=' in /home/zxffvipp/proxyxitios/index.php:164
+Stack trace:
+#0 /home/zxffvipp/proxyxitios/index.php(164): PDOStatement->execute()
+#1 {main}
+  thrown in /home/zxffvipp/proxyxitios/index.php on line 164
+[16-May-2026 09:42:50 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_unicode_ci,COERCIBLE) for operation '=' in /home/zxffvipp/proxyxitios/index.php:102
+Stack trace:
+#0 /home/zxffvipp/proxyxitios/index.php(102): PDOStatement->execute()
+#1 {main}
+  thrown in /home/zxffvipp/proxyxitios/index.php on line 102
+[16-May-2026 10:49:19 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_unicode_ci,COERCIBLE) for operation '=' in /home/zxffvipp/proxyxitios/index.php:102
+Stack trace:
+#0 /home/zxffvipp/proxyxitios/index.php(102): PDOStatement->execute()
+#1 {main}
+  thrown in /home/zxffvipp/proxyxitios/index.php on line 102
+[16-May-2026 10:49:27 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_unicode_ci,COERCIBLE) for operation '=' in /home/zxffvipp/proxyxitios/index.php:102
+Stack trace:
+#0 /home/zxffvipp/proxyxitios/index.php(102): PDOStatement->execute()
+#1 {main}
+  thrown in /home/zxffvipp/proxyxitios/index.php on line 102
+[16-May-2026 10:49:44 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_unicode_ci,COERCIBLE) for operation '=' in /home/zxffvipp/proxyxitios/index.php:102
+Stack trace:
+#0 /home/zxffvipp/proxyxitios/index.php(102): PDOStatement->execute()
+#1 {main}
+  thrown in /home/zxffvipp/proxyxitios/index.php on line 102
+[18-May-2026 03:34:14 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_unicode_ci,COERCIBLE) for operation '=' in /home/zxffvipp/proxyxitios/index.php:102
+Stack trace:
+#0 /home/zxffvipp/proxyxitios/index.php(102): PDOStatement->execute()
+#1 {main}
+  thrown in /home/zxffvipp/proxyxitios/index.php on line 102
+[18-May-2026 07:30:35 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_unicode_ci,COERCIBLE) for operation '=' in /home/zxffvipp/proxyxitios/index.php:102
+Stack trace:
+#0 /home/zxffvipp/proxyxitios/index.php(102): PDOStatement->execute()
+#1 {main}
+  thrown in /home/zxffvipp/proxyxitios/index.php on line 102
+[19-May-2026 19:39:19 UTC] PHP Warning:  Undefined array key "action_type" in /home/zxffvipp/proxyxitios/index.php on line 91
+[20-May-2026 01:23:09 UTC] PHP Warning:  Undefined array key "action_type" in /home/zxffvipp/proxyxitios/index.php on line 91
+[22-May-2026 07:11:37 UTC] PHP Warning:  Undefined array key "action_type" in /home/zxffvipp/proxyxitios/index.php on line 91
+[22-May-2026 07:11:37 UTC] PHP Warning:  Undefined array key "action_type" in /home/zxffvipp/proxyxitios/index.php on line 91
+[22-May-2026 07:11:37 UTC] PHP Warning:  Undefined array key "action_type" in /home/zxffvipp/proxyxitios/index.php on line 91
+[22-May-2026 07:11:37 UTC] PHP Warning:  Undefined array key "action_type" in /home/zxffvipp/proxyxitios/index.php on line 91
+[22-May-2026 09:08:36 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_unicode_ci,COERCIBLE) for operation '=' in /home/zxffvipp/proxyxitios/resellerpanel.php:26
+Stack trace:
+#0 /home/zxffvipp/proxyxitios/resellerpanel.php(26): PDOStatement->execute()
+#1 {main}
+  thrown in /home/zxffvipp/proxyxitios/resellerpanel.php on line 26
+[22-May-2026 14:57:05 UTC] PHP Warning:  Undefined array key "action_type" in /home/zxffvipp/proxyxitios/index.php on line 91
+[22-May-2026 14:57:05 UTC] PHP Warning:  Undefined array key "action_type" in /home/zxffvipp/proxyxitios/index.php on line 91
+[22-May-2026 14:57:05 UTC] PHP Warning:  Undefined array key "action_type" in /home/zxffvipp/proxyxitios/index.php on line 91
+[22-May-2026 14:57:06 UTC] PHP Warning:  Undefined array key "action_type" in /home/zxffvipp/proxyxitios/index.php on line 91
+[22-May-2026 18:50:11 UTC] PHP Warning:  Undefined array key "action_type" in /home/zxffvipp/proxyxitios/index.php on line 91
+[22-May-2026 18:50:11 UTC] PHP Warning:  Undefined array key "action_type" in /home/zxffvipp/proxyxitios/index.php on line 91
+[22-May-2026 18:50:12 UTC] PHP Warning:  Undefined array key "action_type" in /home/zxffvipp/proxyxitios/index.php on line 91
+[22-May-2026 18:50:12 UTC] PHP Warning:  Undefined array key "action_type" in /home/zxffvipp/proxyxitios/index.php on line 91
+[24-May-2026 20:15:24 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_unicode_ci,COERCIBLE) for operation '=' in /home/zxffvipp/proxyxitios/index.php:102
+Stack trace:
+#0 /home/zxffvipp/proxyxitios/index.php(102): PDOStatement->execute()
+#1 {main}
+  thrown in /home/zxffvipp/proxyxitios/index.php on line 102
+[26-May-2026 01:31:27 UTC] PHP Warning:  Undefined array key "action_type" in /home/zxffvipp/proxyxitios/index.php on line 91
+[26-May-2026 23:04:31 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_unicode_ci,COERCIBLE) for operation '=' in /home/zxffvipp/proxyxitios/index.php:102
+Stack trace:
+#0 /home/zxffvipp/proxyxitios/index.php(102): PDOStatement->execute()
+#1 {main}
+  thrown in /home/zxffvipp/proxyxitios/index.php on line 102
+[26-May-2026 23:04:53 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_unicode_ci,COERCIBLE) for operation '=' in /home/zxffvipp/proxyxitios/index.php:102
+Stack trace:
+#0 /home/zxffvipp/proxyxitios/index.php(102): PDOStatement->execute()
+#1 {main}
+  thrown in /home/zxffvipp/proxyxitios/index.php on line 102
+[26-May-2026 23:05:35 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_unicode_ci,COERCIBLE) for operation '=' in /home/zxffvipp/proxyxitios/index.php:102
+Stack trace:
+#0 /home/zxffvipp/proxyxitios/index.php(102): PDOStatement->execute()
+#1 {main}
+  thrown in /home/zxffvipp/proxyxitios/index.php on line 102
+[26-May-2026 23:27:59 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_unicode_ci,COERCIBLE) for operation '=' in /home/zxffvipp/proxyxitios/index.php:102
+Stack trace:
+#0 /home/zxffvipp/proxyxitios/index.php(102): PDOStatement->execute()
+#1 {main}
+  thrown in /home/zxffvipp/proxyxitios/index.php on line 102
+[26-May-2026 23:30:01 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_unicode_ci,COERCIBLE) for operation '=' in /home/zxffvipp/proxyxitios/index.php:102
+Stack trace:
+#0 /home/zxffvipp/proxyxitios/index.php(102): PDOStatement->execute()
+#1 {main}
+  thrown in /home/zxffvipp/proxyxitios/index.php on line 102
+[26-May-2026 23:30:05 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_unicode_ci,COERCIBLE) for operation '=' in /home/zxffvipp/proxyxitios/index.php:102
+Stack trace:
+#0 /home/zxffvipp/proxyxitios/index.php(102): PDOStatement->execute()
+#1 {main}
+  thrown in /home/zxffvipp/proxyxitios/index.php on line 102
+[26-May-2026 23:31:27 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_unicode_ci,COERCIBLE) for operation '=' in /home/zxffvipp/proxyxitios/index.php:164
+Stack trace:
+#0 /home/zxffvipp/proxyxitios/index.php(164): PDOStatement->execute()
+#1 {main}
+  thrown in /home/zxffvipp/proxyxitios/index.php on line 164
+[01-Jun-2026 15:41:21 UTC] PHP Warning:  Undefined array key "action_type" in /home/zxffvipp/proxyxitios/index.php on line 91
